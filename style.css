@@ -266,7 +266,7 @@ small {
         align-items: center;
         padding: 0px;
         justify-items: center;
-        ma
+        
     }
 
     .ex-text-1 {
@@ -371,7 +371,7 @@ small {
 .facts:hover {
     background-color: #FF900E;
     animation: shaking 0.15s infinite;
-    -webkit-animation: ;
+    /* -webkit-animation: ; */
     color: white;
     border-radius: 10px;
     -webkit-border-radius: 10px;
